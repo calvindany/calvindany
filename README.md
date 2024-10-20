@@ -1,8 +1,8 @@
 # Hi there, I'm Calvin Danyalson 👋
 
-I’m a passionate **Software Engineer** and a **fresh graduate** with a keen interest in web development. I love building applications and learning new technologies. Here are some of the skills and technologies I have worked with:
+I’m a passionate **Software Engineer** and a **fresh graduate** with a keen interest in web development. I love building applications and learning new technologies. Here are some of the languages and technologies I have worked with:
 
-## 💼 Skills
+## 💼 Arsenal
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
