@@ -57,7 +57,7 @@ I’m a passionate **Software Engineer** and a **fresh graduate** with a keen in
   <img src="https://streak-stats.demolab.com?user=calvindany&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=2" height="150" alt="streak graph"  />
   </div>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=calvindany&locale=en&hide_title=false&layout=donut&langs_count=6&theme=dracula&hide_border=false&order=3" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=calvindany&locale=en&hide_title=false&layout=donut&langs_count=6&theme=dracula&hide_border=false" alt="languages graph" /> <br>
 </div>
 
 ## 📫 How to reach me
